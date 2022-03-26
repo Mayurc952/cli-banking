@@ -61,7 +61,7 @@ const credit = (userPersonalInfo) => {
         \n /////////////////////////`);
     console.table(userPersonalInfo);
 
-    console.log("\n Thank for visiting pro Bank \n ///////////////////////");
+    console.log("\n Thank for visiting City Bank \n -----------");
     rl.close();
   });
 };
